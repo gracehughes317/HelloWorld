@@ -8,6 +8,10 @@ public class Hello {
 		
 		System.out.println("Hello World");
 		System.out.println("Hello Grace");
+		System.out.println("Where I live");
+		System.out.println("As if");
+		
+		
 		
 		
 		
